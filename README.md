@@ -9,6 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Nabeelahmad193221/Executive-Production-Performance-Dashboard">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+  </a>
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/DAX-Analytics-1F4E79?style=for-the-badge">
   <img src="https://img.shields.io/badge/Power%20Query-ETL-217346?style=for-the-badge">
@@ -19,27 +22,31 @@
 
 ## 🚀 Project Overview
 
-The **Executive Production Performance & Manufacturing Analytics Dashboard** is an interactive Power BI solution designed to transform manufacturing data into meaningful business insights.
+The **Executive Production Performance & Manufacturing Analytics Dashboard** is an interactive Power BI solution developed to transform manufacturing data into meaningful and actionable business insights.
 
-The dashboard provides an executive-level overview of:
+The dashboard provides an executive-level view of key manufacturing performance indicators, including:
 
-- Production performance
-- Product-wise production
-- Machine productivity
-- Shift performance
-- Defects and defect rate
-- Downtime
-- Scrap rate
-- Rework hours
-- Production volume
+- 🏭 Production Performance
+- 📦 Product-wise Production
+- ⚙️ Machine Productivity
+- 🔄 Shift Performance
+- ⚠️ Defects & Defect Rate
+- ⏱️ Downtime
+- ♻️ Scrap Rate
+- 🔧 Rework Hours
+- 📊 Production Volume
 
-The main goal is to help production teams and management **Monitor → Analyze → Identify → Improve** operational performance using data.
+### 🎯 Core Approach
+
+**Monitor → Analyze → Identify → Improve**
+
+The dashboard is designed to provide a centralized view of production and operational KPIs for faster performance analysis and reporting.
 
 ---
 
-## 🎯 Project Objectives
+# 🎯 Project Objectives
 
-The dashboard was developed to:
+The main objectives of this project are to:
 
 - 📈 Monitor overall production performance
 - 📅 Analyze monthly production trends
@@ -49,8 +56,8 @@ The dashboard was developed to:
 - ⚠️ Monitor defects and defect rate
 - ⏱️ Track downtime and production hours
 - ♻️ Monitor scrap and rework
-- 📊 Provide an executive-level KPI overview
-- 💡 Support data-driven operational decisions
+- 📊 Create an executive-level KPI overview
+- 💡 Support data-driven operational analysis
 
 ---
 
@@ -71,22 +78,23 @@ The dashboard was developed to:
 
 # 📊 Dashboard Features
 
-### 📈 Production Trend Analysis
+## 📈 Production Trend Analysis
 
-The monthly production trend visualizes production performance across the year.
+The monthly production trend provides a visual overview of production performance throughout the year.
 
-**Insights include:**
+### Key analysis
 
 - Monthly production trends
-- High and low production periods
 - Production fluctuations
+- Highest and lowest production periods
 - Overall production movement
+- Month-to-month performance comparison
 
 ---
 
-### 📦 Product Type Analysis
+## 📦 Product Type Analysis
 
-Production is analyzed across different product categories:
+Production is analyzed across multiple product categories:
 
 - Automotive
 - Textiles
@@ -94,38 +102,39 @@ Production is analyzed across different product categories:
 - Furniture
 - Electronics
 
-This allows users to compare production contribution across product types.
+This analysis provides visibility into production distribution across different product types.
 
 ---
 
-### 🔄 Shift Performance
+## 🔄 Shift Performance
 
-Production is compared across different shifts:
+Production performance is compared across:
 
-- Day
-- Swing
-- Night
+- ☀️ Day Shift
+- 🌆 Swing Shift
+- 🌙 Night Shift
 
-This helps identify differences in production performance between shifts.
+This allows users to analyze production distribution and differences across operating shifts.
 
 ---
 
-### 🏭 Machine Performance
+## 🏭 Machine Performance
 
-Machine-level analysis provides visibility into production performance by machine ID.
+Machine-level production analysis provides visibility into production output by Machine ID.
 
-The visualization can help identify:
+### Analysis includes
 
-- High-performing machines
+- Machine production volume
+- High-production machines
 - Lower-production machines
 - Production distribution
-- Machine-level performance differences
+- Machine-level performance comparison
 
 ---
 
 # 🎛️ Interactive Filters
 
-The dashboard includes interactive slicers for:
+The dashboard includes interactive slicers that allow users to dynamically analyze the data.
 
 ```text
 📅 Year / Month / Day
