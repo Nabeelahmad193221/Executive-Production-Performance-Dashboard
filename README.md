@@ -1,7 +1,7 @@
 # 📊 Executive Production Performance & Manufacturing Analytics Dashboard
 
 <p align="center">
-  <img src="Dashboard_Preview.png" alt="Executive Production Dashboard" width="100%">
+  <img src="Dashboard_Preview.png" alt="[Executive Production Dashboard](https://github.com/Nabeelahmad193221/Executive-Production-Performance-Dashboard/tree/main)" width="100%">
 </p>
 
 <p align="center">
